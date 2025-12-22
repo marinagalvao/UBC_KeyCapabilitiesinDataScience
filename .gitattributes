@@ -1,0 +1,4 @@
+*.html linguist-detectable=false
+*.pdf linguist-detectable=false
+*.py linguist-language=Python
+
